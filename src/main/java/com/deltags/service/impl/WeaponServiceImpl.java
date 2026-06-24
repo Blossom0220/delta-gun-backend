@@ -1,4 +1,4 @@
-﻿package com.deltags.service.impl;
+package com.deltags.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.deltags.entity.Weapon;

@@ -1,4 +1,4 @@
-﻿package com.deltags.entity;
+package com.deltags.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

@@ -1,4 +1,4 @@
-﻿package com.deltags.controller;
+package com.deltags.controller;
 
 import com.deltags.common.Result;
 import com.deltags.dto.SchemeSaveRequest;

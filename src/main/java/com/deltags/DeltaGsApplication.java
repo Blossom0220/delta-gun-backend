@@ -1,4 +1,4 @@
-﻿package com.deltags;
+package com.deltags;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-﻿package com.deltags.common;
+package com.deltags.common;
 
 import lombok.Data;
 
